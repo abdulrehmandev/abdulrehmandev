@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Abdul Rehman @abdulrehmandev
-- 🌱 I’m currently learning BS Computer Science from University Of Gujrat
-- 📫 You can reach me at beingabdulr@gmail.com
+- 👋 Hello there
