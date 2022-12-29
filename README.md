@@ -9,3 +9,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdulrehmandev&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <img src="https://komarev.com/ghpvc/?username=abdulrehmandev&style=flat-square&color=blue" alt=""/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Web+Developer;Always+learning+new+things.)](https://git.io/typing-svg)
