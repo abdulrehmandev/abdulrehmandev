@@ -1,5 +1,3 @@
-## 👋 Hello there
-
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=500&color=FF416C&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;Always+learning+new+things&pause=1000&size=22" />
 </p>
