@@ -10,9 +10,7 @@
 - 💬 Ask me about React and JavaScript
 - 📫 How to reach me beingabdulr@gmail.com
 - 🎯 My Personal [Portfolio](https://abdulrehmandev.github.io/)
-
-
-### My quick fun solutions at 🔗[Github Gists](https://gist.github.com/abdulrehmandev)
+- 🤏 Fun little code at 🔗[Github Gists](https://gist.github.com/abdulrehmandev)
 
 ## Connect with me
 
