@@ -3,7 +3,7 @@
     Hi there,
 </h1>
 <h3 align="center">
-    Gull-Stack Web Developer: Building Fun Projects
+    Full-Stack Web Developer: Building Fun Projects
 </h3>
 <br />
 <p align="center"> 
