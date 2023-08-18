@@ -14,9 +14,9 @@
 
 - 👨‍🎓 Studying Computer Science
 - ⚛ I love working in React
-- 🎯 Currently working learning TypeScript
-- 🌟 Visit my portfolio [abdulrdev.vercel.app](https://abdulrdev.vercel.app/)
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="20"/> Ask me about React and TS at [beingabdulr@gmail.com](mailto:beingabdulr@gmail.com)
+- 🎯 Currently learning TypeScript
+- 🌟 Visit my portfolio at [abdulrdev.vercel.app](https://abdulrdev.vercel.app/)
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="20"/> Ask me anything about React and TypeScript at [beingabdulr@gmail.com](mailto:beingabdulr@gmail.com)
 
 ## Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50">
 
