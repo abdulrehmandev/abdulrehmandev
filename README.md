@@ -8,7 +8,7 @@ Here are somethings about me:
 <br />
 
 - 🔭 I’m currently working as Full Stack Developer at Upwork and Instantly Creative
-- ✨ Checkout my <a href="abdulrdev.tech">website</a>.
+- ✨ Checkout my <a href="abdulr.dev">website</a>.
 - 👨‍💻 I'm a competitive programmer and a TypeScript enthusiast (I can't imagine building anything without it).
 - 💼 Experienced in React and its related ecosystems.
 - 💬 I am looking for any new opportunities and my inbox is always open
