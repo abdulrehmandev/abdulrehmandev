@@ -1,23 +1,13 @@
-# Hey, this is Abdul Rehman
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<p align="center">
-	<a href="https://www.linkedin.com/in/abdulrdev/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
-</p>
+I'm [**Abdul**](https://abdulr.dev), a software engineer from Pakistan.
 
-Here are somethings about me:
-<br />
+I currently work as a freelance developer, helping startups and teams bring their ideas to life through modern UIs, integrations, and scalable backend systems. I'm a long-term contributor at [**@TheCampStack**](https://github.com/thecampstack), where I focus on building recommendation engines, custom workflows and developer tooling. Previously I was at [**@myTpen**](https://mytpen.app) and [**@Ability Beyond**](https://abilitybeyond.org) on data-driven platforms and automation tools.
 
-- 🔭 I’m currently working as Full Stack Developer at Upwork and Instantly Creative
-- ✨ Checkout my <a href="abdulr.dev">website</a>.
-- 👨‍💻 I'm a competitive programmer and a TypeScript enthusiast (I can't imagine building anything without it).
-- 💼 Experienced in React and its related ecosystems.
-- 💬 I am looking for any new opportunities and my inbox is always open
-- 📫 How to reach me: [beingabdulr@gmail.com](mailto:beingabdulr@gmail.com) or <a href="https://www.linkedin.com/in/abdulrdev/">Linkedin</a>
+My work spans across building workflows that handle +10,000 of monthly invocations to designing user-facing features in high-traffic environments. I’m especially drawn to systems that blend product thinking with deep technical execution.
 
-<!--
-## 🔧 Technologies
+Outside of work, I’m a curious mind—following science, experimenting with motion design, playing video games, and working toward building a meaningful online presence.
 
-</br>
-
-![skills](https://skillicons.dev/icons?i=css,js,ts,react,nextjs,nodejs,tailwind,prisma,mysql,postgres,express,mongo,firebase,supabase,apollo,graphql,linux,git,redis,docker,redux,python,vscode&theme=dark&perline=15)
--->
+#### Let's connect!
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/abdulrdev)
+[<img alt="X" src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" />](https://x.com/iiiabdulrehman)
